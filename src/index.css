@@ -1,0 +1,21 @@
+*{
+margin: 0;
+padding: 0;
+}
+body {
+  display: grid;
+  grid-template-columns: auto;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+    @media only screen and (max-width: 914px) {
+      #header{
+        grid-template-columns: auto;
+        background-color: red;
+        
+      }
+    }
+
