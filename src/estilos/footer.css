@@ -133,7 +133,7 @@ animation: animate 11s linear infinite;
 @media only screen and (max-width: 916px) {
     #contenedor_footer{
         width: 100%;
-     border: solid red 4px;
+     
     }
     .ultims_palabras{
         position: relative;
