@@ -111,3 +111,23 @@
     box-shadow: inset 0px 0px 10px 10px #2f252536;
     filter: blur(30px);
 }
+@media only screen and (max-width: 916px) {
+    #cotenedor_de_proyectos{
+     
+    }
+    .imagen{
+        position: absolute;
+        object-fit: cover;
+        display: flex;
+        object-fit:fill;
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 70%;
+        height: 12%;
+        left: 33px;
+       
+        
+    }
+
+    }
