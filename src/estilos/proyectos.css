@@ -114,6 +114,8 @@
 @media(max-width: 916px) {
    
     .imagen{
+        display: grid;
+        grid-template-columns: auto;
         position: absolute;
         object-fit: cover;
         display: flex;
