@@ -141,6 +141,8 @@
         left: 24%;
     }
     .boton::before{
+        display: grid;
+        grid-template-columns: auto;
         width: 70%;
         height: 70%;
     }
